@@ -7,7 +7,6 @@
   - PhantomX Pincher Robot Arm
 
 
-![alt text](https://dl.dropboxusercontent.com/content_link/xSFVJ5D2MGpp8SLh49pytfkxAiMIOpse1v9zl1JzXEjsHHFY129v5Ebtl5ceI4nI/file)
 
 [Demo 1](https://www.youtube.com/watch?v=39ecg1-v-7I)
 
